@@ -1,5 +1,7 @@
 # Phân tích yêu cầu nghiệp vụ
 
+"Bản nháp phân tích ban đầu, viết trước khi code. Bản hoàn chỉnh nằm trong báo cáo nộp kèm. Một số chi tiết (ví dụ NetworkConnection) được bổ sung ở giai đoạn sau"
+
 ## 1. Bài toán
 
 Xây dựng chương trình quản lý các thiết bị trong phòng thực hành. Mỗi thiết bị có thông tin chung gồm mã, tên, năm đưa vào sử dụng, giá mua, trạng thái. Hệ thống quản lý ba loại thiết bị máy tính, máy in, máy chiếu, mỗi loại có khả năng kết nối mạng khác nhau. Sử dụng các kiến thức về oop để thực hành.
